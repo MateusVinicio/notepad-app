@@ -1,6 +1,6 @@
 # notepad-app
 
-Este projeto tem como objetivo implementar aplicação web que funciona como m bloco de notas.
+Este projeto tem como objetivo implementar aplicação web que funciona como um bloco de notas.
 
 O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
 
