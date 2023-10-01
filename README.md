@@ -6,7 +6,7 @@ O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado 
 
 ## Protótipo
 
-N/A
+- [x] Quant-UX - https://quant-ux.com/#/test.html?h=a2aa10a1wiNaZ6WAfg8zOhxRGm67yHLWR0hF7Eu3bLE3wB4IYbwmHlntBzDu
 
 ## Checklist
 #### RA1 - Prototipar e projetar interfaces gráficas de usuário, considerando princípios de usabilidade e experiência do usuário.
